@@ -1,7 +1,7 @@
 # Quiz on Twitch
 QuizOnTwitch is an interactive quiz platform designed specifically for Twitch streamers.
 
-
+#
 <!-- install -->
 ## Installation
 The project is split into 2 parts, the `./client` and the `./server`.
